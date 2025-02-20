@@ -15,6 +15,7 @@ Follow LDO and VoronDesign docs for setting up the Pico here:
 
 Continue with Klipper configuration from LDO Docs here: https://docs.ldomotors.com/en/voron/voron02/wiring_guide_rev_a
 - this will create and preparethe basic config file
-- Setup automated backup of config to github via Eric Z's document here:https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html
+- Setup automated backup of config to github via Eric Z's document
+    - here:https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html
 
 Move on to initial setup via voron docs here: https://docs.vorondesign.com/build/startup/
