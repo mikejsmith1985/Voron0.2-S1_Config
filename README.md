@@ -12,6 +12,7 @@ Follow LDO and VoronDesign docs for setting up the Pico here:
   - SKR Pico Serial ID: usb-Klipper_rp2040_45474150540C061A-if00
   - Frame Pico Serial ID: usb-Klipper_rp2040_3252343738082B4E-if00
   - Display Serial ID: usb-Klipper_stm32f042x6_1D0029000B43564E32313720-if00
+    -  0483:df11
 
 Continue with Klipper configuration from LDO Docs here: https://docs.ldomotors.com/en/voron/voron02/wiring_guide_rev_a
 - this will create and prepare the basic config file
