@@ -14,7 +14,11 @@ Follow LDO and VoronDesign docs for setting up the Pico here:
   - Display Serial ID: usb-Klipper_stm32f042x6_1D0029000B43564E32313720-if00
 
 Continue with Klipper configuration from LDO Docs here: https://docs.ldomotors.com/en/voron/voron02/wiring_guide_rev_a
-- this will create and preparethe basic config file
+- this will create and prepare the basic config file
+Sensorless Homing:
+- Default Stepper_x endstop_pin: ^gpio4
+- Default Stepper_y endstop_pin: ^gpio3
+  
 - Setup automated backup of config to github via Eric Z's document
     - here:https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html
 
