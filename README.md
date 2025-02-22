@@ -21,5 +21,7 @@ Sensorless Homing:
   
 - Setup automated backup of config to github via Eric Z's document
     - here:https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html
+    - Link to my 64bit backup Repo:
+      - https://github.com/mikejsmith1985/0.2LDO64Bit.git
 
 Move on to initial setup via voron docs here: https://docs.vorondesign.com/build/startup/
