@@ -11,9 +11,7 @@ Follow LDO and VoronDesign docs for setting up the Pico here:
 - (VoronDesign) https://docs.vorondesign.com/build/software/skrPico_klipper.html
   - SKR Pico Serial ID: usb-Klipper_rp2040_45474150540C061A-if00
   - Frame Pico Serial ID: usb-Klipper_rp2040_3252343738082B4E-if00
-  - Display Serial ID: usb-Klipper_stm32f042x6_1D0029000B43564E32313720-if00
-    -  0483:df11
-
+  
 Continue with Klipper configuration from LDO Docs here: https://docs.ldomotors.com/en/voron/voron02/wiring_guide_rev_a
 - this will create and prepare the basic config file
 Sensorless Homing:
@@ -26,3 +24,6 @@ Sensorless Homing:
       - https://github.com/mikejsmith1985/0.2LDO64Bit.git
 
 Move on to initial setup via voron docs here: https://docs.vorondesign.com/build/startup/
+Setup the V0 Display: https://github.com/VoronDesign/Voron-Hardware/blob/master/V0_Display/Documentation/Setup_and_Flashing_Guide.md
+- Display Serial ID: usb-Klipper_stm32f042x6_1D0029000B43564E32313720-if00
+    -  0483:df11
