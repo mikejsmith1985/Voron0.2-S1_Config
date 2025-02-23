@@ -25,5 +25,5 @@ Sensorless Homing:
 
 Move on to initial setup via voron docs here: https://docs.vorondesign.com/build/startup/
 Setup the V0 Display: https://github.com/VoronDesign/Voron-Hardware/blob/master/V0_Display/Documentation/Setup_and_Flashing_Guide.md
-- Display Serial ID: usb-Klipper_stm32f042x6_1D0029000B43564E32313720-if00
+- Display Serial ID: /usb-Klipper_stm32f042x6_1D0029000B43564E32313720-if00
     -  0483:df11
